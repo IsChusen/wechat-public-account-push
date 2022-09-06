@@ -51,22 +51,6 @@ export const config = {
       city: "连云港",
       openUrl: "https://s.weibo.com/top/summary?cate=realtimehot"
     }, 
-    {
-      name: "老婆2",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      openUrl: "https://wangxinleo.cn"
-    }, 
-    {
-      name: "老婆3", 
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      openUrl: "https://wangxinleo.cn"
-    }, 
   ],
 
   /**
