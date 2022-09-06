@@ -48,7 +48,7 @@ export const config = {
       id: "ovm7a5zJwOL6W082yYOuDCozq-MQ",
       useTemplateId: "FYc1gv6FgdnY8hVtLuIz9K3J18XYyqCDEQIj2bFJitE",
       province: "江苏",
-      city: "连云港赣榆",
+      city: "连云港",
       openUrl: "https://s.weibo.com/top/summary?cate=realtimehot"
     }, 
     {
