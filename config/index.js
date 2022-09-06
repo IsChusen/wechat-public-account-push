@@ -33,7 +33,7 @@ export const config = {
       // 想要发送的人的名字
       name: "楚森",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "ovm7a56XXBAb_BarclAgAog3p7C0",
+      id: "ovm7a5zJwOL6W082yYOuDCozq-M",
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "0V6QSC1BnoXNpvHtnUAB8pF4rvJ6GtJ8PZWNsByFqGQ",
       // 所在省份
@@ -45,7 +45,7 @@ export const config = {
     }, 
     {
       name: "槑娟", 
-      id: "ovm7a5zJwOL6W082yYOuDCozq-MQ",
+      id: "ovm7a50XEL6C5iK4uudOpZxz0VsQ",
       useTemplateId: "0V6QSC1BnoXNpvHtnUAB8pF4rvJ6GtJ8PZWNsByFqGQ",
       province: "江苏",
       city: "连云港",
