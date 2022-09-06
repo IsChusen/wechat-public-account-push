@@ -35,7 +35,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "ovm7a56XXBAb_BarclAgAog3p7C0",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "o6LHkTpwiprwCUSsZUzDf-1tRjNKPZmbBBgftKzJz50",
+      useTemplateId: "0V6QSC1BnoXNpvHtnUAB8pF4rvJ6GtJ8PZWNsByFqGQ",
       // 所在省份
       province: "上海",
       // 所在城市
@@ -46,7 +46,7 @@ export const config = {
     {
       name: "槑娟", 
       id: "ovm7a5zJwOL6W082yYOuDCozq-MQ",
-      useTemplateId: "o6LHkTpwiprwCUSsZUzDf-1tRjNKPZmbBBgftKzJz50",
+      useTemplateId: "0V6QSC1BnoXNpvHtnUAB8pF4rvJ6GtJ8PZWNsByFqGQ",
       province: "江苏",
       city: "连云港",
       openUrl: "https://s.weibo.com/top/summary?cate=realtimehot"
