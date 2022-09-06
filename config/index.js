@@ -31,7 +31,7 @@ export const config = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "楚森1",
+      name: "楚森",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "ovm7a5zJwOL6W082yYOuDCozq-MQ",
       // 你想对他发送的模板消息的模板ID
@@ -41,15 +41,15 @@ export const config = {
       // 所在城市
       city: "上海",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-      openUrl: "https://wangxinleo.cn"
+      openUrl: "https://s.weibo.com/top/summary?cate=realtimehot"
     }, 
     {
-      name: "chusen01", 
+      name: "槑娟", 
       id: "ovm7a5zJwOL6W082yYOuDCozq-MQ",
       useTemplateId: "zKG01SDmwmOVXBZNhCu5_l7IV9Yo-qfE-oCH85IfHhE",
       province: "江苏",
-      city: "连云港",
-      openUrl: "https://wangxinleo.cn"
+      city: "连云港赣榆",
+      openUrl: "https://s.weibo.com/top/summary?cate=realtimehot"
     }, 
     {
       name: "老婆2",
@@ -74,7 +74,7 @@ export const config = {
    */
 
   // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "-ddB6BW4ZXALbtug0tv4G08VauMigk9VIYgZLVM6r4s",
+  CALLBACK_TEMPLATE_ID: "QVYWTNQ0I6LUuCAl61vGOtjUvSaFAtn3s_1lw9Id868",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
@@ -106,10 +106,11 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    {"type": "生日", "name": "老婆", "year": "1996", "date": "09-02"},
-    {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "09-03"},
-    {"type": "生日", "name": "李四", "year": "1996", "date": "09-31"},
-    {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
+    {"type": "生日", "name": "美丽可爱亲亲宝宝", "year": "1999", "date": "07-10"},
+    {"type": "节日", "name": "第一次最右聊天纪念日", "year": "2022", "date": "06-22"},
+    {"type": "节日", "name": "宝宝第一次在上海奔现纪念日", "year": "2022", "date": "08-12"},
+    {"type": "节日", "name": "在一起纪念日", "year": "2023", "date": "08-12"},
+    {"type": "节日", "name": "春节", "year": "2023", "date": "01-22"},
   ],
 
   /**
