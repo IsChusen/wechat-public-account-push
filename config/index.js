@@ -22,7 +22,7 @@ export const config = {
    *    // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
    *    id: "ovm7a5zJwOL6W082yYOuDCozq-MQ",
    *    // 你想对他发送的模板消息的模板ID
-   *    useTemplateId: "zKG01SDmwmOVXBZNhCu5_l7IV9Yo-qfE-oCH85IfHhE",
+   *    useTemplateId: "gxGRviN6SOZSDSRgjBD_mhnjr9Z1sjGk5MLsBlUIcXs",
    *    // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
    *    openUrl: "https://wangxinleo.cn"
    *   }, 
@@ -35,7 +35,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "ovm7a5zJwOL6W082yYOuDCozq-MQ",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "FYc1gv6FgdnY8hVtLuIz9K3J18XYyqCDEQIj2bFJitE",
+      useTemplateId: "gxGRviN6SOZSDSRgjBD_mhnjr9Z1sjGk5MLsBlUIcXs",
       // 所在省份
       province: "上海",
       // 所在城市
@@ -46,7 +46,7 @@ export const config = {
     {
       name: "槑娟", 
       id: "ovm7a5zJwOL6W082yYOuDCozq-MQ",
-      useTemplateId: "FYc1gv6FgdnY8hVtLuIz9K3J18XYyqCDEQIj2bFJitE",
+      useTemplateId: "gxGRviN6SOZSDSRgjBD_mhnjr9Z1sjGk5MLsBlUIcXs",
       province: "江苏",
       city: "连云港",
       openUrl: "https://s.weibo.com/top/summary?cate=realtimehot"
