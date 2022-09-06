@@ -47,8 +47,8 @@ export const config = {
       name: "chusen01", 
       id: "ovm7a5zJwOL6W082yYOuDCozq-MQ",
       useTemplateId: "zKG01SDmwmOVXBZNhCu5_l7IV9Yo-qfE-oCH85IfHhE",
-      province: "江苏省",
-      city: "连云港市",
+      province: "江苏",
+      city: "连云港",
       openUrl: "https://wangxinleo.cn"
     }, 
     {
