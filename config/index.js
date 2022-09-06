@@ -39,7 +39,7 @@ export const config = {
       // 所在省份
       province: "上海",
       // 所在城市
-      city: "浦东新区",
+      city: "上海",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "https://wangxinleo.cn"
     }, 
