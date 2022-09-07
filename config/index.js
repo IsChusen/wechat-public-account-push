@@ -43,14 +43,14 @@ export const config = {
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
       openUrl: "https://s.weibo.com/top/summary?cate=realtimehot"
     }, 
-//     {
-//       name: "槑娟", 
-//       id: "ovm7a50XEL6C5iK4uudOpZxz0VsQ",
-//       useTemplateId: "0V6QSC1BnoXNpvHtnUAB8pF4rvJ6GtJ8PZWNsByFqGQ",
-//       province: "江苏",
-//       city: "连云港",
-//       openUrl: "https://s.weibo.com/top/summary?cate=realtimehot"
-//     }, 
+    {
+      name: "槑娟", 
+      id: "ovm7a50XEL6C5iK4uudOpZxz0VsQ",
+      useTemplateId: "0V6QSC1BnoXNpvHtnUAB8pF4rvJ6GtJ8PZWNsByFqGQ",
+      province: "江苏",
+      city: "连云港",
+      openUrl: "https://s.weibo.com/top/summary?cate=realtimehot"
+    }, 
   ],
 
   /**
