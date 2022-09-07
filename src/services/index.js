@@ -279,7 +279,7 @@ export const sendMessage = async (templateId, user, accessToken, params) => {
   const data = {
     "touser": user.id,
     "template_id": templateId,
-    "url": user.openUrl || "https://s.weibo.com/top/summary?cate=realtimehot",
+    "url": user.openUrl || "https://wangxinleo.cn",
     "topcolor": "#FF0000",
     "data": wxTemplateData
   }
