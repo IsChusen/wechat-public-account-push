@@ -47,8 +47,8 @@ export const config = {
       name: "槑娟", 
       id: "ovm7a50XEL6C5iK4uudOpZxz0VsQ",
       useTemplateId: "0V6QSC1BnoXNpvHtnUAB8pF4rvJ6GtJ8PZWNsByFqGQ",
-      province: "江苏",
-      city: "连云港",
+      province: "上海",
+      city: "上海",
       openUrl: "https://s.weibo.com/top/summary?cate=realtimehot"
     }, 
   ],
@@ -90,7 +90,7 @@ export const config = {
    * 节日时，name填写相应展示的节日，你可以填“被搭讪纪念日”
    */
   FESTIVALS: [
-    {"type": "生日", "name": "美丽可爱亲亲宝宝", "year": "1999", "date": "07-10"},
+    {"type": "生日", "name": "美丽可爱亲亲宝宝", "year": "1999", "date": "07-23"},
     {"type": "节日", "name": "第一次最右聊天纪念日", "year": "2022", "date": "06-22"},
     {"type": "节日", "name": "宝宝第一次来上海奔现纪念日", "year": "2022", "date": "08-12"},
     {"type": "节日", "name": "在一起纪念日", "year": "2023", "date": "08-12"},
