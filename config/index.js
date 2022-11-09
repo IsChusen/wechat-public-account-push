@@ -44,9 +44,9 @@ export const config = {
       openUrl: "https://s.weibo.com/top/summary?cate=realtimehot"
     }, 
     {
-      name: "槑娟", 
-      // id: "ovm7a50XEL6C5iK4uudOpZxz0VsQ",
-      useTemplateId: "0V6QSC1BnoXNpvHtnUAB8pF4rvJ6GtJ8PZWNsByFqGQ",
+      name: "梅娟", 
+      id: "ovm7a50XEL6C5iK4uudOpZxz0VsQ",
+      useTemplateId: "8PXOUh-omgYlo7yv2Zi_JzDL_hFgv78_hMzjIiMOGwI",
       province: "上海",
       city: "上海",
       openUrl: "https://s.weibo.com/top/summary?cate=realtimehot"
@@ -67,6 +67,7 @@ export const config = {
       name: "自己",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "ovm7a5zJwOL6W082yYOuDCozq-MQ",
+      id: "ovm7a50XEL6C5iK4uudOpZxz0VsQ",
     }, 
   ],
     
