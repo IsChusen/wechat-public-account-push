@@ -115,6 +115,8 @@ export const config = {
     {"keyword": "love_day", date: "2022-08-12"},
     // 第一次认识纪念日
     {"keyword": "marry_day", date: "2022-06-22"},
+    // 在上海同居纪念日
+    {"keyword": "together_day", date: "2022-09-17"},
     // sakana日
     // {"keyword": "sakana_day", date: "2022-01-06"},
     // ... 
