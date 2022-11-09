@@ -22,7 +22,7 @@ export const config = {
    *    // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
    *    id: "ovm7a5zJwOL6W082yYOuDCozq-MQ",
    *    // 你想对他发送的模板消息的模板ID
-   *    useTemplateId: "gxGRviN6SOZSDSRgjBD_mhnjr9Z1sjGk5MLsBlUIcXs",
+   *    useTemplateId: "0V6QSC1BnoXNpvHtnUAB8pF4rvJ6GtJ8PZWNsByFqGQ",  //同居模板8PXOUh-omgYlo7yv2Zi_JzDL_hFgv78_hMzjIiMOGwI	
    *    // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
    *    openUrl: "https://wangxinleo.cn"
    *   }, 
@@ -35,7 +35,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "ovm7a5zJwOL6W082yYOuDCozq-MQ",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "0V6QSC1BnoXNpvHtnUAB8pF4rvJ6GtJ8PZWNsByFqGQ",
+      useTemplateId: "8PXOUh-omgYlo7yv2Zi_JzDL_hFgv78_hMzjIiMOGwI",
       // 所在省份
       province: "上海",
       // 所在城市
@@ -45,7 +45,7 @@ export const config = {
     }, 
     {
       name: "槑娟", 
-      id: "ovm7a50XEL6C5iK4uudOpZxz0VsQ",
+      // id: "ovm7a50XEL6C5iK4uudOpZxz0VsQ",
       useTemplateId: "0V6QSC1BnoXNpvHtnUAB8pF4rvJ6GtJ8PZWNsByFqGQ",
       province: "上海",
       city: "上海",
@@ -77,9 +77,9 @@ export const config = {
   /** 天气相关 */
 
   // 默认所在省份, USERS 中没填的话, 会默认拿这里的省份
-  PROVINCE: "江苏",
+  PROVINCE: "上海",
   // 默认所在城市, USERS 中没填的话, 会默认拿这里的城市
-  CITY: "连云港",
+  CITY: "上海",
 
   /** 重要节日相关 */
 
